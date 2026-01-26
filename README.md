@@ -1,5 +1,4 @@
-document management
-system designed to work with scanned documents (also called digital
+Document management system designed to work with scanned documents (also called digital
 archives). It extracts text from your scans using OCR, indexes them, and
 prepares them for full text search. 
 
