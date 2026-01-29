@@ -4,9 +4,6 @@ prepares them for full text search.
 
 It supports PDF, TIFF, JPEG and PNG document file formats. 
 
-This is web-based software. This means there is no executable file (aka no
-.exe files), and it must be run on a web server and accessed through a web
-browser.
 
 
 
