@@ -31,6 +31,6 @@ LOGGING = {
 
 PAPERMERGE_DEFAULT_FILE_STORAGE = "papermerge.storage.S3Storage"
 PAPERMERGE_FILE_STORAGE_KWARGS = {
-    'bucketname': 'dev-papermerge',
+    'bucketname': 'dev-archplan',
     'namespace': 'demo'
 }
